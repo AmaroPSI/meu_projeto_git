@@ -4,5 +4,7 @@ Estou a fazer alterações ao ficheiro
 
 ALTERAÇÕES EFETUADAS NA BRANCH 'NOVAFEATURE'
 
+ALTERAÇÕES EM NOVAFEATURE
+
 ALTERAÇÃO EM MASTER
 
